@@ -36,9 +36,10 @@ footer_content: "Copyright &copy; 2019 Paul Shao. Originally distributed by an <
 
 
 # Build settings
-remote_theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 heading_anchors: true
 

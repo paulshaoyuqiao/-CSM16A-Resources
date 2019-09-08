@@ -1,0 +1,39 @@
+{
+  "0": {
+    "title": "",
+    "content": "404 . Page not found :( . The requested page could not be found. .",
+    "url": "/404.html",
+    "relUrl": "/404.html"
+  },
+  "1": {
+    "title": "About Us",
+    "content": "Meet the Team . Coordinators . Michelle Mao I&#39;m a junior from Shanghai who isn&#39;t an international student because I was born in Michigan but will still tell you I&#39;m Chinese. I&#39;ve been in CSM since my second semester and truly believe it will reshape EECS education at Cal. I especially believe in its power to change student perceptions of EE courses. When I&#39;m not CSM-ing, you can find me in the a cappella group the California Golden Overtones, building mobile apps, or biking around the area. Joined CSM in Spring 2018 Junior Paul Shao Hi. My name is Paul. I am currently a junior studying EECS. Some of my personal hobbies include classical music, hiking, and traveling. I look forward to meeting all of you and a great semester ahead of us! Joined CSM in Fall 2018 Junior Senior Mentors . Albert Tang Hey! I&#39;m a big fan of good times and fun vibes (and occasionally EE 16A). Come join! :&#39;) A little bit more about me: I&#39;m a third year EECS major and I enjoy swimming, sunsets, and procrastinating more than I should. I apparently enjoy sad boi music, but also I don&#39;t listen to music much. I really enjoy Marvel movies and Game of Thrones, but I have yet to finish either of those (oop). Joined CSM in Spring 2019 Junior Jonathan Shi Hello there! I&#39;m a 3rd year EECS major from the Bay Area. I like programming languages where the compiler yells at you a lot. Outside CSM, I&#39;m a Music Director and saxophonist for the Intermission Orchestra, and I spend an inordinate amount of my breaks watching anime. Also, I run this website. This means I get to put fancy formatted text in my bio (as long as I remember to edit it in) Joined CSM in Spring 2018 Junior Katherine Shu Hi, it’s Kat! I’m a second year EECS major from Arcadia, CA. In my spare time, love to travel, dance, and draw. My favorite food is strawberries and I don’t listen to music (yes, I know it’s weird). I’m excited to meet everyone and to dive into circuits and linear algebra together :) Joined CSM in Spring 2019 Sophomore Rishi Veerapaneni Rishi is a 4th year EECS &amp; Applied Math student from Saratoga CA. When not playing card games, “singing” “songs”, making amazing puns, and saying “Good Morning” at all times of the day, Rishi enjoys studying for classes, coding for research, and attempting to teach students. Rishi would now like to thank the reader for reading his bio and he very much hopes to see them in discussion! Joined CSM in Fall 2018 Senior Zachary Golan-Strieb Hi! I&#39;m Zack! I am currently majoring in CS and researching security for machine learning. I enjoy watching basketball (huge Warriors fan), hiking, listening to music (some of my favorite artists are Cage the Elephant and Tierra Whack), and eating way too much. My favorite instant ramen is Indomie, in case you want to get some for me *cough* *cough*. I am also a member of the EE 16A course staff, so feel free to ask me any questions about course operations. Peace! Joined CSM in Spring 2019 Junior Taejin Hwang Hello! I’m a fourth year Math and CS major from Arcadia, CA. When I’m not CSMing or studying for midterms, I’m usually watching Man U, playing video games (FE3H / XC2), or eating at Shooting Star Cafe. Feel free to talk to me about anything, or listen to me talk to you about how we’re actually living in a Hilbert Space. Joined CSM in Fall 2018 Senior",
+    "url": "/nav/about",
+    "relUrl": "/nav/about"
+  },
+  "2": {
+    "title": "Content",
+    "content": "Content . This section contains a summary of the key concepts covered every week in lectures, along with some of the key observations, advice, and common pitfalls that we have found helpful for the students throughout our teaching. You are encouraged to reference the content as much as you need to, and feel free to ask your mentors for clarification or provide your feedbacks if you want any particular part of the page improved. .",
+    "url": "/nav/content",
+    "relUrl": "/nav/content"
+  },
+  "3": {
+    "title": "Home",
+    "content": "CSM EECS 16A Resources . Term: Fall 2019 . Under Construction . . Overview | Syllabus | Overview . Hi there! Welcome to the EECS 16A Resources Website under Computer Science Mentors (CSM), the largest student-run teaching organization on Berkeley campus for lower-division computer science and electrical engineering classes. We created this website for all current students enrolled in an EECS 16A CSM section and for anyone who is interested in learning the materials in EECS 16A (Designing Information Systems and Devices - I) and aims to provide a much easier access to all the worksheets, slides, video walkthroughs, and review session materials provided during the current offering of the course. We hope you will find this website helpful. For any course-related logistical questions (such as homework and exam grading), please refer to the official EECS 16A course website for staff contact information: Official EECS 16A Website . Syllabus . Week Date Lecture Topic Worksheets . 0 |   |   |   | .   | 08/29 | Overview. Introduction to Imaging |   | . 1 | 09/03 | Vectors, Matrices and systems of Linear Equations |   | .   | 09/05 | Gaussian Elimination |   | .",
+    "url": "/nav/home",
+    "relUrl": "/nav/home"
+  },
+  "4": {
+    "title": "",
+    "content": "",
+    "url": "/",
+    "relUrl": "/"
+  },
+  "5": {
+    "title": "Week 0",
+    "content": "Week 0 . . Summary | Summary . This week in class, we are introduced to primarily two topics: . Why EECS 16A and some of its applications in real life | Systems of Equations and Gaussian Elimination | An Application of Systems of Equations: Imaging | Some of the key takeaways from these topics include: . A system of linear equations can be used to summarize a compositional linear relationships between the quantities we want to solve for and our measurements | We can refactor and create a more compact and systematic representation of linear equations using vectorization (expressing systems in terms of vectors and matrices) | We can apply Gaussian Elimination Algorithm to solve a system of any number of linear equations (equivalently, row-reducing an augmented matrix) | We can determine the number of solutions a system of linear equations will have (unique, infinitely many, no solutions) by observing the reduced form of the augmented matrix | .",
+    "url": "/nav/content/week0.html",
+    "relUrl": "/nav/content/week0.html"
+  }
+  
+}
